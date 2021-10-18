@@ -1,4 +1,4 @@
-<img src="http://gainsboroinfotech.com/wp-content/uploads/2021/10/GITHUB.jpg" alt="GITHUB">
+<img src="https://gainsboroinfotech.com/wp-content/uploads/2021/10/GITHUB.jpg" alt="GITHUB">
 
 ## Here is what I'm Working On!
 
