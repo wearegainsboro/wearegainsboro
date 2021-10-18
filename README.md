@@ -1,6 +1,7 @@
+<img src="http://gainsboroinfotech.com/wp-content/uploads/2021/10/GITHUB.jpg" alt="GITHUB">
+
 ## Here is what I'm Working On!
 
-<img src="http://gainsboroinfotech.com/wp-content/uploads/2021/10/GITHUB.jpg" alt="GITHUB">
 
 :computer: I'm currently working on ... Web Designe & Web Development <br>
 :pencil2: I'm currently working on ... Freelancing<br>
