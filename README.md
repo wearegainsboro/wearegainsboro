@@ -2,6 +2,12 @@
 
 Here are some ideas to get you stated:
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Profile </title>
+
+
 <style>
 
 :root {
@@ -221,6 +227,11 @@ p {
   line-height: 1.4;
 }
 </style>
+
+</head>
+
+<body>
+
 <header>
   <h1>WE CREATE THE TREND</h1>
  
@@ -275,6 +286,10 @@ p {
       </a>
     </li>
 </ul>
+
+
+</body>
+</html>
 
 
 :computer: I'm currently working on ... Web Designe & Web Development <br>
