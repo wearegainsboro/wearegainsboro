@@ -40,7 +40,7 @@ confidently steer through an exciting digital journey.
 
 <a href="tel:+917696329149">:iphone: +91 7696329149</a><br>
 <a href="mailto:hello@gainsboroinfotech.com">:envelope: hello@gainsboroinfotech.com</a><br>
-<a href="tel:+4733378901">+47 333 78 901</a>
+
 ## Careers
 
 <a href="https://gainsboroinfotech.com/vacancies/">:paperclip: Apply Now</a><br>
