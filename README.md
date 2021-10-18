@@ -38,7 +38,7 @@ confidently steer through an exciting digital journey.
 
 ## Shoutout
 
-<a href="tel:+917696329149">+91 7696329149</a><br>
+<a href="tel:+917696329149">:iphone: +91 7696329149</a><br>
 <a href="mailto:hello@gainsboroinfotech.com">:envelope: hello@gainsboroinfotech.com</a><br>
 
 ## Careers
