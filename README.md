@@ -20,3 +20,17 @@ confidently steer through an exciting digital journey.
 <li>Individual attention to every project</li>
 <li>24×7 customer support</li>
 </ul>
+
+## Core Services
+<ul>
+<li>SEO STRATEGY</li>
+<li>USER EXPERIENCE STRATEGY</li>
+<li>PROCESS AND EXPERIENCE OPTIMIZATION</li>
+<li>ANALYTICS AND DATA ANALYSIS</li>
+<li>BRAND EXPERIENCE DESIGN</li>
+<li>BUSINESS ANALYSIS</li>
+<li>COMMUNICATION STRATEGY</li>
+<li>CONTENT WRITING MANAGEMENT</li>
+<li>DIGITAL BRAND STRATEGY</li>
+<li>ENGINEERING STRATEGY</li>
+</ul>
