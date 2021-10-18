@@ -36,3 +36,11 @@ confidently steer through an exciting digital journey.
 <li><a href="https://gainsboroinfotech.com/content-writing-2/" target="_blank">CONTENT WRITING</a></li>
 </ul>
 
+## Shoutout
+
+<strong>Contact Info</strong>
+<ul>
+ <li><a href="tel:7696329149">:telephone_receiver: (+91) 7696329149</a></li>
+<li><a href="mail to:hello@gainsboroinfotech.com">:envelope: hello@gainsboroinfotech.com</li>
+</ul>
+
