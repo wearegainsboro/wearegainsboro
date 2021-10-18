@@ -23,6 +23,7 @@ confidently steer through an exciting digital journey.
 
 ## Core Services
 <ul>
+<h4>Strategy</h4>
 <li>SEO STRATEGY</li>
 <li>USER EXPERIENCE STRATEGY</li>
 <li>PROCESS AND EXPERIENCE OPTIMIZATION</li>
