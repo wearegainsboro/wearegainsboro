@@ -38,12 +38,10 @@ confidently steer through an exciting digital journey.
 
 ## Shoutout
 
-<strong>Contact Info</strong><br><br>
-<a href="tel:7696329149">:telephone_receiver: 7696329149</a><br>
+<a href="tel:+917696329149">+91 7696329149</a><br>
 <a href="mailto:hello@gainsboroinfotech.com">:envelope: hello@gainsboroinfotech.com</a><br>
 
-## Shoutout
+## Careers
 
-<strong>Careers</strong><br><br>
 <a href="https://gainsboroinfotech.com/vacancies/">:paperclip: Apply Now</a><br>
 
