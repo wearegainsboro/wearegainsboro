@@ -24,15 +24,10 @@ confidently steer through an exciting digital journey.
 ## Our Services
 <ul>
 <li><a href="https://gainsboroinfotech.com/mobile-application-development/" target="_blank">MOBILE APP DEVELOPMENT</a></li>
- 
-<li href="https://gainsboroinfotech.com/web-development-services/" target="_blank">WEB DEVELOPMENT</a></li>
- 
-<li href="https://gainsboroinfotech.com/ui-ux-graphics-design/" target="_blank">UI/UX & GRAPHICS DESIGN</a></li>
- 
-<li href="https://gainsboroinfotech.com/digital-marketing/" target="_blank">DIGITAL MARKETING</a></li>
- 
-<li href="https://gainsboroinfotech.com/business-consultancy-solutions/" target="_blank">BUSINESS CONSULTANCY SOLUTIONS</a></li>
- 
-<li href="https://gainsboroinfotech.com/content-writing-2/" target="_blank">CONTENT WRITING</a></li>
+<li <a href="https://gainsboroinfotech.com/web-development-services/" target="_blank">WEB DEVELOPMENT</a></li>
+<li <a href="https://gainsboroinfotech.com/ui-ux-graphics-design/" target="_blank">UI/UX & GRAPHICS DESIGN</a></li>
+<li <a href="https://gainsboroinfotech.com/digital-marketing/" target="_blank">DIGITAL MARKETING</a></li>
+<li <a href="https://gainsboroinfotech.com/business-consultancy-solutions/" target="_blank">BUSINESS CONSULTANCY SOLUTIONS</a></li>
+<li <a href="https://gainsboroinfotech.com/content-writing-2/" target="_blank">CONTENT WRITING</a></li>
 </ul>
 
